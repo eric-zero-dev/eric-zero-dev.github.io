@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c6fa8e01.chunk.css",
+    "main.js": "/static/js/main.ecb5c6d6.chunk.js",
+    "main.js.map": "/static/js/main.ecb5c6d6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.454af737.js",
+    "runtime-main.js.map": "/static/js/runtime-main.454af737.js.map",
+    "static/css/2.b2898f71.chunk.css": "/static/css/2.b2898f71.chunk.css",
+    "static/js/2.fc88356e.chunk.js": "/static/js/2.fc88356e.chunk.js",
+    "static/js/2.fc88356e.chunk.js.map": "/static/js/2.fc88356e.chunk.js.map",
+    "static/js/3.3c6bca64.chunk.js": "/static/js/3.3c6bca64.chunk.js",
+    "static/js/3.3c6bca64.chunk.js.map": "/static/js/3.3c6bca64.chunk.js.map",
+    "static/js/4.916bcbc1.chunk.js": "/static/js/4.916bcbc1.chunk.js",
+    "static/js/4.916bcbc1.chunk.js.map": "/static/js/4.916bcbc1.chunk.js.map",
+    "static/js/5.fbd817e1.chunk.js": "/static/js/5.fbd817e1.chunk.js",
+    "static/js/5.fbd817e1.chunk.js.map": "/static/js/5.fbd817e1.chunk.js.map",
+    "static/js/6.7ae04b79.chunk.js": "/static/js/6.7ae04b79.chunk.js",
+    "static/js/6.7ae04b79.chunk.js.map": "/static/js/6.7ae04b79.chunk.js.map",
+    "static/js/7.e3b7c614.chunk.js": "/static/js/7.e3b7c614.chunk.js",
+    "static/js/7.e3b7c614.chunk.js.map": "/static/js/7.e3b7c614.chunk.js.map",
+    "static/js/8.acc9bd9b.chunk.js": "/static/js/8.acc9bd9b.chunk.js",
+    "static/js/8.acc9bd9b.chunk.js.map": "/static/js/8.acc9bd9b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.b2898f71.chunk.css.map": "/static/css/2.b2898f71.chunk.css.map",
+    "static/css/main.c6fa8e01.chunk.css.map": "/static/css/main.c6fa8e01.chunk.css.map",
+    "static/js/2.fc88356e.chunk.js.LICENSE.txt": "/static/js/2.fc88356e.chunk.js.LICENSE.txt",
+    "static/js/3.3c6bca64.chunk.js.LICENSE.txt": "/static/js/3.3c6bca64.chunk.js.LICENSE.txt",
+    "static/js/5.fbd817e1.chunk.js.LICENSE.txt": "/static/js/5.fbd817e1.chunk.js.LICENSE.txt",
+    "static/media/default_domain_image.c13253e3.jpeg": "/static/media/default_domain_image.c13253e3.jpeg",
+    "static/media/default_domain_video.002863ed.webm": "/static/media/default_domain_video.002863ed.webm",
+    "static/media/styles.scss": "/static/media/search-icon.83c49bc0.svg",
+    "static/media/wilder-wide-logo.48e0fd3e.svg": "/static/media/wilder-wide-logo.48e0fd3e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.454af737.js",
+    "static/css/2.b2898f71.chunk.css",
+    "static/js/2.fc88356e.chunk.js",
+    "static/css/main.c6fa8e01.chunk.css",
+    "static/js/main.ecb5c6d6.chunk.js"
+  ]
+}
